@@ -1,4 +1,5 @@
 # Battery-Alert
+![Screeshot](https://user-images.githubusercontent.com/52201271/110230182-3ab70800-7f35-11eb-8ca6-83489fb0b114.PNG)
 # 			   BATTERY ALERT AND MONITORING - Python Script
 
 #Features :
